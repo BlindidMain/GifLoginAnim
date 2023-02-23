@@ -10,7 +10,7 @@
         android:id="@+id/myGif"
         android:scaleType="fitCenter"
         android:contentDescription="gif"
-        android:layout_height="@dimen/_340sdp"/>
+        android:layout_height="360dp"/>
 
 
 </LinearLayout>
