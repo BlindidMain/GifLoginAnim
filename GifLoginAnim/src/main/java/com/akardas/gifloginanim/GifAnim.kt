@@ -8,7 +8,7 @@ import android.widget.ImageView
 import android.widget.LinearLayout
 
 
-class GifAnim : LinearLayout {
+public class GifAnim : LinearLayout {
     private lateinit var rocketAnimation: AnimationDrawable
 
     constructor(context: Context, attrs: AttributeSet?, defStyle: Int) : super(
